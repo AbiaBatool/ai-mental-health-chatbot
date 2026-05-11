@@ -1,4 +1,4 @@
-# AI Mental Health Chatbot 🤖
+# AI Mental Health Chatbot 
 
 An AI-powered chatbot that detects emotions from user text and provides personalized mental wellness support.
 
